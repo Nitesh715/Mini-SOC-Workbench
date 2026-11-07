@@ -2,6 +2,11 @@
 
 An offline-first advanced SOC capstone project. It turns normalized endpoint and network events into rule-based alerts, correlates alerts into cases, and provides a local analyst dashboard for triage and case notes.
 
+
+## Architecture overview
+
+![Mini-SOC Workbench architecture](docs/architecture-diagram.svg)
+
 ## Features
 
 An offline-first Security Operations Center (SOC) lab for analyzing synthetic or authorized security events, generating explainable alerts, correlating incidents into cases, and supporting local analyst triage.
