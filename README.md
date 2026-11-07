@@ -4,6 +4,9 @@ An offline-first advanced SOC capstone project. It turns normalized endpoint and
 
 ## Features
 
+An offline-first Security Operations Center (SOC) lab for analyzing synthetic or authorized security events, generating explainable alerts, correlating incidents into cases, and supporting local analyst triage.
+
+
 - Local web dashboard with summary metrics, severity distribution, incident queue, alert list, and event timeline.
 - Event Explorer for searching every loaded event, including telemetry that did not trigger a rule.
 - Three configurable detection types: single-event, threshold, and event-sequence rules.
@@ -111,3 +114,8 @@ This is a complete local capstone prototype, not a production SIEM. It analyzes 
 - [Wazuh documentation](https://documentation.wazuh.com/current/getting-started/index.html)
 - [Wazuh active response configuration](https://documentation.wazuh.com/current/user-manual/reference/ossec-conf/active-response.html)
 - [OWASP API Security Top 10](https://api-security.owasp.org/)
+
+
+## Screenshots
+
+The repository currently has no committed runtime screenshot files. To keep the portfolio accurate, add real captures from the locally running dashboard rather than fabricated images. Suggested files: screenshots/dashboard.png, screenshots/alert-details.png, screenshots/attack-coverage.png.
