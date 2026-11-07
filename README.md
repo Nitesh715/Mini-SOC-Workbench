@@ -123,6 +123,8 @@ This is a complete local capstone prototype, not a production SIEM. It analyzes 
 - [OWASP API Security Top 10](https://api-security.owasp.org/)
 
 
-## Screenshots
+## Dashboard preview
 
-The repository currently has no committed runtime screenshot files. To keep the portfolio accurate, add real captures from the locally running dashboard rather than fabricated images. Suggested files: screenshots/dashboard.png, screenshots/alert-details.png, screenshots/attack-coverage.png.
+The image below is an illustrative UI mockup, not a capture from a running instance. Values and records are synthetic.
+
+![Illustrative Mini-SOC Workbench dashboard mockup](screenshots/dashboard-mockup.svg)
